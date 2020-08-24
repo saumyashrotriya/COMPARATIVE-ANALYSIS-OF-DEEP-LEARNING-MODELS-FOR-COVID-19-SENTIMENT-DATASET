@@ -1,0 +1,4 @@
+# COMPARATIVE-ANALYSIS-OF-DEEP-LEARNING-MODELS-FOR-COVID-19-SENTIMENT-DATASET
+With the Coronavirus pandemic, another crisis has manifested itself in the form of mass fear and panic phenomena, fueled by incomplete and often inaccurate information. There is therefore a tremendous need to address and better understand COVID-19’s informational crisis and gauge public sentiment, so that appropriate messaging and policy decisions can be implemented. 
+The project uses technologies such as streaming (using tweepy), Pre-trained word embeddings, text processing, tokenization, text post-processing on the dataset of various hashtags related to coronavirus.
+Basically, this project deals with the comparative study of deep learning models such as Convolutional Neural Networks (CNN), Long Short-Term Memory Neural Networks (LSTM), CNN - LSTM, LSTM - CNN.
